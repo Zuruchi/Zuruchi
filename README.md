@@ -27,7 +27,7 @@
 <p align="center" style="max-width: 700px; font-size: 18px; line-height: 1.6; color: #444;">
   I’m Zuruchi, a BSIT student and Python & Django developer.
 I build backend systems that work well and are easy to maintain.
-Right now, I’m working on ResQLink — a system for real-time emergency reporting and tracking.
+Right now, I’m working on ResQLink a system for real-time emergency reporting and tracking.
 I also have experience with payment gateways, SMS integration, and e-commerce projects.
 </p>
 
