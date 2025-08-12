@@ -14,7 +14,7 @@
 ---
 
 👨‍💻 **About Me**  
-I’m Zuruchi, a passionate BSIT student and Python/Django developer focused on backend solutions. I enjoy building clean, scalable applications and currently working on **ResQLink**, a real-time emergency reporting and responder tracking system. Experienced in payment gateways, SMS integration, and e-commerce platforms.
+I’m Zuruchi, a BSIT student and Python/Django developer focused on backend solutions. currently working on **ResQLink**, a real-time emergency reporting and responder tracking system. Experienced in payment gateways, SMS integration, and e-commerce platforms.
 
 ---
 
