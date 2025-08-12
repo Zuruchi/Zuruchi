@@ -13,9 +13,9 @@
 
 ---
 
-## 🧑‍💻 About Me
-I’m a BSIT student building **ResQLink** — a real-time emergency reporting and responder-tracking system.  
-I love **Django, WebSockets, and clean UX**.
+👨‍💻 BSIT Student | Python & Django Developer | BACK-END Focused
+🔥 Currently Building ResQLink — a real-time emergency reporting and responder tracking system.
+🛠️ Experience with Payment Systems, SMS Integration, and E-commerce.
 
 ---
 
