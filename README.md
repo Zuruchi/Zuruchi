@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1500&color=1e90ff&width=480&lines=BSIT+Student;Python+%26+Django+Developer;Building+ResQLink;Coffee+Fueled+Debugger" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1500&color=1e90ff&width=480&lines=BSIT+Student;Python+%26+Django+Developer;Building+ResQLink;" alt="Typing Animation" />
   </a>
 </p>
 
